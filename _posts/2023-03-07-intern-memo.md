@@ -4,7 +4,7 @@ tags: cmu intern
 article_header:
   type: cover
   image:
-    src: images/2023-03-07-night.JPG
+    src: images/2023-03-07-intern-memo.jpg
 ---
 
 # 实习找工回忆录 #
