@@ -1,10 +1,11 @@
 ---
+layout: article
 title: 写在最初，03/07/2023
 tags: 2023 cmu
 article_header:
   type: cover
   image:
-    src: images/2023-03-07.jpg
+    src: https://drive.google.com/uc?export=view&id=1KqiokN1gPEYkivfkX30sVF9UKkFuAADf
 ---
 
 必须说，建立这个网站完全是仿照[李晨昊学长](https://mashplant.online/) 的做法。我很崇拜他，也很想成为像他一样专业的大佬。在CMU快一年，我越来越能找到学习这个专业的意义，并比以往任何一个时候都渴望在这个领域学得更好，做出更多的贡献。很大一部分的原因，是遇到了很多像晨昊学长一样的人，给我做了榜样，让我在这条道路上走的越来越坚定。正好我本身也有记录自己的心情的习惯，于是便琢磨着把能够见光的部分，在这个个人网站上贴出来。

@@ -18,7 +18,7 @@
 ##############################
 text_skin: ocean # "default" (default), "dark", "forest", "ocean", "chocolate", "orange"
 highlight_theme: default # "default" (default), "tomorrow", "tomorrow-night", "tomorrow-night-eighties", "tomorrow-night-blue", "tomorrow-night-bright"
-url     : # the base hostname & protocol for your site e.g. https://www.someone.com
+url     : https://mononokehime14.github.io # the base hostname & protocol for your site e.g. https://www.someone.com
 baseurl : # does not include hostname
 title   : 任昊的国度
 description: > # this means to ignore newlines until "Language & timezone"
@@ -41,7 +41,7 @@ author:
   url       :
   avatar    : # path or url of avatar image (square)
   bio       : 
-  email     : haoren@andrew.cmu.edu
+  email     : renhao19971222@gmail.com
   linkedin  : # "user_name" the last part of your profile url, e.g. https://www.linkedin.com/in/user_name
   github    : https://github.com/mononokehime14
 

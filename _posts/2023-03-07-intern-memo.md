@@ -1,10 +1,11 @@
 ---
+layout: article
 title: 实习找工回忆录
 tags: cmu intern
 article_header:
   type: cover
   image:
-    src: images/2023-03-07-intern-memo.jpg
+    src: https://drive.google.com/uc?export=view&id=12cn8FGZ4XFRnu9RJSySPLQgJRR3lQKkP
 ---
 
 # 实习找工回忆录 #
