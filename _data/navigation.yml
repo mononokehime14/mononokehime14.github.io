@@ -1,6 +1,8 @@
 header:
-  - title:      博客
-    url:        /blog/
+  - titles:
+      en:       Blogs
+      zh:       博客
+    url:        /blog/index.html
   - titles:
       en:       Archive
       zh:       归档
