@@ -1,5 +1,4 @@
 ---
-layout: article
 title: 匹兹堡回忆录
 tags: cmu pittsburgh
 article_header:

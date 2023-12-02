@@ -1,5 +1,4 @@
 ---
-layout: article
 title: 写在最初，03/07/2023
 tags: 2023 cmu
 article_header:

@@ -1,5 +1,4 @@
 ---
-layout: article
 title: 实习找工回忆录
 tags: cmu intern
 article_header:

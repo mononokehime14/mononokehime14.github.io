@@ -22,9 +22,7 @@ url     : https://mononokehime14.github.io # the base hostname & protocol for yo
 baseurl : # does not include hostname
 title   : 任昊的国度
 description: > # this means to ignore newlines until "Language & timezone"
-  这个小孩已不再像小时候那样渴望他人的关注和疼爱
-  不管是偶然到访还是怀着好奇地寻觅
-  请赐给这个国度它应有的安静吧～
+  永远的无怨的是我的双眼
 
 
 ## => Language and Timezone
