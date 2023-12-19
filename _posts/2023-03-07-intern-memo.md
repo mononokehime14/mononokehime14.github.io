@@ -1,6 +1,6 @@
 ---
 title: 实习找工回忆录
-tags: cmu intern
+tags: cmu career
 article_header:
   type: cover
   image:
